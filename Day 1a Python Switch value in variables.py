@@ -1,12 +1,15 @@
 # 🚨 Don't change the code below 👇
-a = input("a: ")
-b = input("b: ")
+#a = input("a: ")
+#b = input("b: ")
+
+z = input("z: ")
+y = input("y: ")
 
 # 🚨 Don't change the code above 👆
 
 ####################################
 #Write your code below this line 
-a ,b = b, a
+z, y = y, z
 
 
 
@@ -17,6 +20,6 @@ a ,b = b, a
 ####################################
 
 # 🚨 Don't change the code below 👇
-print("a: " + a)
-print("b: " + b)
+print("z: " + z)
+print("y: " + y)
 
